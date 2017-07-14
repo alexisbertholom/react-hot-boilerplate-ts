@@ -1,0 +1,27 @@
+{
+  "name": "react-hot-boilerplate-ts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexisbertholom/react-hot-boilerplate-ts.git"
+  },
+  "author": "Alexis Bertholom <alexis.bertholom.jd@gmail.com> (http://github.com/alexisbertholom)",
+  "homepage": "https://github.com/alexisbertholom/react-hot-boilerplate-ts",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "@types/react": "^15.0.38",
+    "@types/react-dom": "^15.5.1",
+    "react-hot-loader": "^1.3.0",
+    "ts-loader": "^2.2.2",
+    "typescript": "^2.4.1",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.0"
+  }
+}
